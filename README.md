@@ -1,5 +1,7 @@
 # MVCEntityFramework
 
-This is a .NET Project using ASP.NET MVC 5, using CRUD operations with Entity Framework 6.
+This is a .NET Project using ASP.NET MVC, using CRUD operations with Entity Framework.
 
-The Entity Framework approach is Code First due to using an existing database (in this case the popular Northwind Database).
+The Entity Framework workflow used was Code First using an existing database (in this case the popular Northwind Database). 
+
+For more info on this, check this: https://msdn.microsoft.com/en-us/data/jj590134?videoid=7c257200-8d3c-4418-9dac-01c5bd7ee764&from=sharepermalink-link
